@@ -1,6 +1,6 @@
 const number = document.getElementById("number");
 const likeBtn = document.querySelector("#likeButton");
-const dislikeBtn = document.querySelector(".dislikeButton");
+const dislikeBtn = document.querySelector("#dislikeButton");
 
 let defaultValue = 0;
 
